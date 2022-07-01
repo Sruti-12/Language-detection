@@ -5,6 +5,4 @@ NLP faces a lot of challenges with Indian languages, Lack of language grammar, l
 
 # Language-detection![image (1)](https://user-images.githubusercontent.com/71381532/176928506-b4b91601-1850-47bb-b94c-3a81c2c6f6f0.png)
 ![image (3)](https://user-images.githubusercontent.com/71381532/176928560-4bdf1f48-8be3-4658-a72c-150c0190df97.png)
-![image (4)](https://user-images.githubusercontent.com/71381532/176928565-ff91974b-bb67-49d6-8cf9-3d20180c7c05.png)
-![image (5)](https://user-images.githubusercontent.com/71381532/176928571-c85c65fa-0528-48be-8ba6-dc22d2a9d10f.png)
-![image (2)](https://user-images.githubusercontent.com/71381532/176928578-1ab9218f-9aad-4c03-a742-72214ae9fc06.png)
+
